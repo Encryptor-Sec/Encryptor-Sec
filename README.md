@@ -1,4 +1,4 @@
-## Hello World ! I'm Encryptor 👋
+## Hello World ! I'm Sathyaprakash (a.k.a ENCRYPTOR) 👋
 It's all about Cybersecurity here :
 -  :snake: Python Developer
 - :computer: Hacker
