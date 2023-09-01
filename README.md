@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encryptor-sec" alt="encryptor-sec" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_.encryptor._" target="blank"><img src="https://img.shields.io/twitter/follow/_.encryptor._?logo=twitter&style=for-the-badge" alt="_.encryptor._" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_encryptor_" target="blank"><img src="https://img.shields.io/twitter/follow/_encryptor_?logo=twitter&style=for-the-badge" alt="_encryptor_" /></a> </p>
 
 - 🌱 I’m currently learning **Secure Coding & Cloud Security**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_.encryptor._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_.encryptor._" height="30" width="40" /></a>
+<a href="https://twitter.com/_encryptor_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_encryptor_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sathyaprakashsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathyaprakashsahoo" height="30" width="40" /></a>
 </p>
 
